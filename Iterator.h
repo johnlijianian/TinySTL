@@ -1,7 +1,3 @@
-//
-// Created by LJN on 2022/2/24.
-//
-
 #ifndef TINYSTL_ITERATOR_H
 #define TINYSTL_ITERATOR_H
 namespace TinySTL{

@@ -1,7 +1,3 @@
-//
-// Created by LJN on 2022/2/18.
-//
-
 #ifndef CONSTRUCT_H
 #define CONSTRUCT_H
 

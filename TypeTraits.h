@@ -1,7 +1,3 @@
-//
-// Created by LJN on 2022/2/18.
-//
-
 #ifndef TYPETRAITS_H
 #define TYPETRAITS_H
 

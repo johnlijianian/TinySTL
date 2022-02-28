@@ -1,7 +1,3 @@
-//
-// Created by LJN on 2022/2/27.
-//
-
 #ifndef TINYSTL_DEQUE_H
 #define TINYSTL_DEQUE_H
 

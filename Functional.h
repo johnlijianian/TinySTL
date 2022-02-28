@@ -1,7 +1,3 @@
-//
-// Created by LJN on 2022/2/27.
-//
-
 #ifndef TINYSTL_FUNCTIONAL_H
 #define TINYSTL_FUNCTIONAL_H
 

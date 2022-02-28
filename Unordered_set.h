@@ -1,5 +1,5 @@
 //
-// Created by LJN on 2022/2/27.
+// Created by LJN on 2021/2/27.
 //
 
 #ifndef TINYSTL_UNORDERED_SET_H
@@ -78,5 +78,5 @@ namespace TinySTL{
         float max_load_factor_;
     };
 }
-
+#include "Detail/Unordered_set.impl.h"
 #endif //TINYSTL_UNORDERED_SET_H
