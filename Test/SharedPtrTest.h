@@ -2,8 +2,8 @@
 // Created by LJN on 2021/2/28.
 //
 
-#ifndef TINYSTL_SHAREPTRTEST_H
-#define TINYSTL_SHAREPTRTEST_H
+#ifndef TINYSTL_SHAREDPTRTEST_H
+#define TINYSTL_SHAREDPTRTEST_H
 
 #include "../Memory.h"
 
@@ -17,4 +17,4 @@ namespace TinySTL{
     }
 }
 
-#endif //TINYSTL_SHAREPTRTEST_H
+#endif //TINYSTL_SHAREDPTRTEST_H
